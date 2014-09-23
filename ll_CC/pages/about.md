@@ -1,15 +1,16 @@
 # About Page
 
 
-## Section 1
+## This Notebook
 
-Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+This notebook represents the final stage in a Scrivener to Github workflow (with side trips to Dillinger.io) that I wrote about on [Electric Archaeology](http://electricarchaeology.ca).
+This wiki is markdown driven. It's a nice layer for viewing my markdown notes. The documentation for this [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) says to put the md files anywhere else but github, but grudgingly says, 'well, if you must...' There's probably good reasons for that, but I've only been playing with this for a day so it all remains to be seen. Sure, dropbox would be elegant, but without the 'public' folder [functionality it wouldn't be viewable](http://dynalon.github.io/mdwiki/#!tutorials/dropbox.md).
 
 
-## Section 2
+## Why open?
 
-Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The rationale for an open notebook (especially for historians, archaeologists!) is nicely covered by Caleb McDaniels in [Open Notebook History](http://wcm1.web.rice.edu/open-notebook-history.html).
+
+## So... you've got stuff here then?
+
+Well, not yet. I've spent a lot of time figuring out my workflow. Now, I've got to get cracking!

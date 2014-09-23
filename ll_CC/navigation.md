@@ -23,7 +23,7 @@
 
 [Notebooks]()
 
-  * # SubMenu Heading 1
+  * # Projects 
   * [ABM](pages/abm.md)
   * [Aural AR](pages/aural.md)
   - - - -

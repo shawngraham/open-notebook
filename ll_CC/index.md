@@ -1,4 +1,4 @@
-# It works! ;-)
+# Shawn Graham's Open Notebook
 
 
 ## Section 1

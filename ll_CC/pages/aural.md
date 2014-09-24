@@ -18,4 +18,4 @@ Base Header Level: 1
 + Platform
 + ?
 
-## [Current Notes](/documents/02-current-notes -29-.md)
+## [Current Notes](02-current-notes -29-.md)

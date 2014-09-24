@@ -18,4 +18,4 @@ Base Header Level: 1
 + Platform
 + ?
 
-## [Current Notes](contents.md)
+## [Current Notes](/uploads/contents.md)

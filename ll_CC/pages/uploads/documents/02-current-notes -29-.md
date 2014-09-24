@@ -2,10 +2,10 @@
 
 notes-from-csapo-werseny-overview-of-audiotry-rep
 
-  *  [adding-emotional-content-to-non-speach-sounds] (05 adding-emotional-content-to-non-speach-sounds -15-.md)
-  *  [speech-not-optimal] (06 speech-not-optimal -16-.md)
-  *  [audiogames-screenshot] (07 audiogames-screenshot -17-.md)
-  *  [classical-auditory-representations] (08 classical-auditory-representations -18-.md)
+  *  [adding-emotional-content-to-non-speach-sounds](05 adding-emotional-content-to-non-speach-sounds -15-.md)
+  *  [speech-not-optimal](06 speech-not-optimal -16-.md)
+  *  [audiogames-screenshot](07 audiogames-screenshot -17-.md)
+  *  [classical-auditory-representations](08 classical-auditory-representations -18-.md)
   *  [earcons ]
   *  [failings-of-earcons-icons-in-real-world ]
   *  [spearcons ]

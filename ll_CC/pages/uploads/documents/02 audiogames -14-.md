@@ -1,4 +1,4 @@
-\- \[Audiogames\]\(<http://www.audiogames.arsgames.net/?page_id=29>\)
+\[Audiogames\]\(<http://www.audiogames.arsgames.net/?page_id=29>\)
 
 \- Creates 3d objects that have audio characteristics; thus as player moves
 around in space, they might collide with 'objects', hearing the collision, 3d

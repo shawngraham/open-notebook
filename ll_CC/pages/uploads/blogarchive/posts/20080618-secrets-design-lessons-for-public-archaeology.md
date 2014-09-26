@@ -1,0 +1,19 @@
+title: Secrets & Design - Lessons for Public Archaeology?
+link: http://electricarchaeology.ca/2008/06/18/secrets-design-lessons-for-public-archaeology/
+author: fhg1711
+description: 
+post_id: 291
+created: 2008/06/18 09:56:23
+created_gmt: 2008/06/18 14:56:23
+comment_status: open
+post_name: secrets-design-lessons-for-public-archaeology
+status: publish
+post_type: post
+
+# Secrets & Design - Lessons for Public Archaeology?
+
+A number of posts in the various blogs I read has sent off a train of thought... stay with me and see if we jump the track or not. The [Ludologist](http://www.jesperjuul.net/ludologist/) ([Jesper Juul](http://www.jesperjuul.net/)) wrote [yesterday about an architect he'd like to hire](http://www.jesperjuul.net/ludologist/?p=463). The story was published in the New York Times as '[Mystery on Fifth Avenue](http://www.nytimes.com/2008/06/12/garden/12puzzle.html?_r=2&pagewanted=all&oref=slogin&oref=slogin)', about a newly renovated apartment - ![](http://graphics8.nytimes.com/images/2008/06/11/garden/12puzzle.1.jpg)
+
+> The apartment is quite attractive and perfectly functional in all the typical ways, and its added features remained largely unnoticed by its inhabitants for quite some time after they moved in, in May of 2006. Then one night four months later, Cavan Klinsky, who is now 11, had a friend over. The boy was lying on the floor in Cavan’s bedroom, staring at dozens of letters that had been cut into the radiator grille. They seemed random — FDYDQ, for example. But all of a sudden the friend leapt up with a shriek, Ms. Sherry said, having realized that they were actually a cipher (a Caesar Shift cipher, to be precise), and that Cavan’s name was the first word.  ([slideshow showing the apartment](http://www.nytimes.com/slideshow/2008/06/11/garden/0612-PUZZLE_index.html?partner=permalink&exprod=permalink))
+
+This is quite cool, and was taken up all around the blogosphere. Tracking it brought me to The Guardian Newspaper [Games blog (which is quite good, by the way). ](http://blogs.guardian.co.uk/games/)On that site, it's filed under 'Alternate Reality Games'... which got me to thinking (always dangerous, I know). Here's the idea - archaeological sites (or historical sites in general) open to the public tend to be curated with a sort of earnestness that can put people right off (my wife, for instance, refuses to visit any of these with me, but that may in fact be the fault of her live-in tour guide). Perhaps we should be taking a cue from [Mr. Clough, the architect of the Manhatten Puzzle Apartment](http://www.212box.com/) and salt our interpretation materials with puzzles, clues, codes and ciphers. What I'm suggesting isn't that we should cater to the pseudo-archaeology crowd. Rather, have our standard interpretational panels etc, but incorporate another layer of information to draw people in... For instance, in Gatineau Park where I sometimes work is an [estate left to the nation](http://www.canadascapital.gc.ca/bins/ncc_web_content_page.asp?cid=16297-16299-10170-49685-49721-49723&lang=1) by MacKenzie-King, a Canadian Prime Minister.  King was something of a landscape designer, and so he built follies around his estate. These all have information panels, with the regular who-what-when-where-why.  But King was active all over Canada... interpretation with clues built in (and these would also be all over the internet too, natch) could draw the visitor to explore some of King's other landscaping activities, those of his contemporaries both in Canada and abroad... a mystery to unravel by the ever-so-slightly more observant visitor. [Engagement. That's the thing](http://net.educause.edu/ir/library/pdf/ELI3009.pdf).

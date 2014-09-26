@@ -1,0 +1,21 @@
+title: Some More Agent Based Modelling Readings
+link: http://electricarchaeology.ca/2009/04/16/some-more-agent-based-modelling-readings/
+author: fhg1711
+description: 
+post_id: 595
+created: 2009/04/16 11:27:01
+created_gmt: 2009/04/16 16:27:01
+comment_status: open
+post_name: some-more-agent-based-modelling-readings
+status: publish
+post_type: post
+
+# Some More Agent Based Modelling Readings
+
+From the [GIS and Agent-Based Modelling Blog](http://www.gisagents.blogspot.com/) at Centre for Advanced Spatial Analysis, some notes regarding interesting new articles (I'm cribbing freely here, as I don't have the time at the moment to read the articles myself): 
+
+> The first is "[Design Guidelines for Agent Based Model Visualization](http://jasss.soc.surrey.ac.uk/12/2/1.html)" by [Kornhauser et. al.](http://jasss.soc.surrey.ac.uk/12/2/1/kornhauser.html), (2009) which discusses the importance of visualizing agent-based models. Specifically the importance of visualization in identifying, communicating and understanding the behaviour of the modelled phenomenon. In this article Kornhauser et. al. (2009) comment that many agent-based modellers create ineffective visualizations of their models. This paper provides ABM visualization design guidelines in order to improve visual design with ABM toolkits
+
+[...] 
+
+> The second article entitled '[Tools of the Trade: A Survey of Various Agent Based Modeling Platforms](http://jasss.soc.surrey.ac.uk/12/2/2.html)' by [Nikolai and Madey](http://jasss.soc.surrey.ac.uk/12/2/2/nikolai.html) (2009), which offers advice for choosing the appropriate agent-based platform for a specific modelling endeavour. The paper references and extends our own work at CASA "[Principles and Concepts of Agent-Based Modelling for Developing Geospatial Simulations](http://www.casa.ucl.ac.uk/publications/workingPaperDetail.asp?ID=110)." Specifically the paper reviews a number of toolkits and characterize each based on 5 characteristics users might consider when choosing a toolkit (e.g. programming language , type of license, operating system, domain, user support), and then we categorize the characteristics into user-friendly taxonomies that aid in rapid indexing and easy reference. The authors have also developed a [web-based tool](http://agent.cse.nd.edu/abmsearchengine.php) that incorporates all their findings, users input a range of characteristics, and the tool returns a list of candidate platforms that contain those characteristics (such as operating system). The tool is available at <http://agent.cse.nd.edu/abmsearchengine.php>. Furthermore, [Nikolai and Madey](http://jasss.soc.surrey.ac.uk/12/2/2/nikolai.html) (2009), have created a wiki page entitled "[ABM Software Comparison](http://en.wikipedia.org/wiki/ABM_Software_Comparison)," and it is linked from the main "[Agent Based Model](http://en.wikipedia.org/wiki/Agent-based_model)" post on [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) which anyone can alter or expand. The third paper by Heikkila and Wang, which is in press in [Environment and Planning B](http://www.envplan.com/B.html), entitled "[Fujita and Ogawa revisited: an agent-based modeling approach](http://www.envplan.com/abstract.cgi?id=b34080)" which builds on and extends the work of [Masahisa Fujita and Hideaki Ogawa in 1982](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V89-45GSG3X-12&_user=125795&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000010182&_version=1&_urlVersion=0&_userid=125795&md5=cfa5a8503dbb88f45bd0b64d578a12dd). The authors employ an ABM approach that seeks to replicate the individual household and firm behaviours that lead to equilibrium or nonequilibrium outcomes but more specifically addresses questions of path dependency and bounded rationality that lie well beyond the scope of the original work of [Fujita and Ogawa (1982)](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V89-45GSG3X-12&_user=125795&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000010182&_version=1&_urlVersion=0&_userid=125795&md5=cfa5a8503dbb88f45bd0b64d578a12dd).

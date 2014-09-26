@@ -1,0 +1,15 @@
+title: Mapping Witches
+link: http://electricarchaeology.ca/2010/01/01/mapping-witches/
+author: fhg1711
+description: 
+post_id: 791
+created: 2010/01/01 15:05:46
+created_gmt: 2010/01/01 20:05:46
+comment_status: open
+post_name: mapping-witches
+status: publish
+post_type: post
+
+# Mapping Witches
+
+I've always quite enjoyed the work of[ Terry Pratchett](http://www.terrypratchettbooks.com/). This Christmas, I was given a copy of his work, with Jacqueline  Simpson,  about the [folklore ](http://www.amazon.co.uk/Folklore-Discworld-Legends-customs-helpful/dp/0552154938/ref=sr_1_1?ie=UTF8&s=books&qid=1262375995&sr=1-1)which Pratchett happily transmogrifies from Earth to the Discworld. It's quite an interesting book, and as I read the section on the witches of [Lancre](http://en.wikipedia.org/wiki/Discworld_geography#Lancre), it sparked some thoughts. In Lancre, as on Earth, witches sometimes '[borrow](http://en.wikipedia.org/wiki/Granny_Weatherwax#Powers)' and or transform themselves into animals.  A common story has a hunter shooting a hare or bird, which manages to escape; the next day the local witch will be seen limping or otherwise affected.  I never appreciated how widespread that story (and its variants) is (according to _Folklore)... _and then remembered that we have a variant of our own in this neck of the woods. In 2007 I was hired to catalogue the intangible heritage of [Gatineau Park](http://www.capitaleducanada.gc.ca/bins/ncc_web_content_page.asp?cid=16297-16299-10170&bhcp=1&lang=1). One story that I came across (recorded in _[Up the Gatineau! ](http://www.gvhs.ca/Publications/up-the-gatineau.html)_[the journal of the Gatineau Valley Historical Society](http://www.gvhs.ca/Publications/up-the-gatineau.html)) was about the witches of Brown's Lake. Apparently, in the early 20th century, there were two branches of the Brown family, and they were a-feuding.  The matriarchs of both branches were acknowledged witches. One day, the one Mrs. Brown was assaulted by a poltergeist in her own house. She eventually was able to find the source of the poltergeist, emanating from under the upstairs bed. She had her son shoot his rifle under the bed, and the paranormal activity ceased. At the exact moment that the rifle went off, the _other_ Mrs. Brown was walking down the road to Wakefield village - and she dropped down dead on the spot. So now I'm wondering... how widespread is this (dare I use the word) [meme](http://en.wikipedia.org/wiki/Meme)? If we mapped it, what patterns would we discover? A story so widespread must mean something? I've set up a [Google map,](http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=106746093687106695935.00047c1fbb0d06b6ae73b&ll=45.629525,-75.933037&spn=0.043935,0.110378&z=13) with this first information point on it; anyone may edit it. Over time, perhaps something interesting will emerge...

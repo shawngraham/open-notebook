@@ -1,0 +1,15 @@
+title: Review: Herod's Lost Tomb, National Geographic Channel, Sunday November 23 9 pm
+link: http://electricarchaeology.ca/2008/11/20/review-herods-lost-tomb-national-geographic-channel-sunday-november-23-9-pm/
+author: fhg1711
+description: 
+post_id: 441
+created: 2008/11/20 14:20:44
+created_gmt: 2008/11/20 19:20:44
+comment_status: open
+post_name: review-herods-lost-tomb-national-geographic-channel-sunday-november-23-9-pm
+status: publish
+post_type: post
+
+# Review: Herod's Lost Tomb, National Geographic Channel, Sunday November 23 9 pm
+
+There's a point in this film where we see Herod with his architect, and the architect has a cut-away, 3d view of the palace-cum-fortress he's going to build for the King. That's a hell of an architect, in first century Judea... So: same question as for [Alex's Lost Tomb](http://electricarchaeologist.wordpress.com/2008/11/20/review-egypt-unwrapped-alexander-the-greats-lost-tomb-national-geographic-channel-friday-november-21-8-pm/): Why does it matter where Herod's tomb is? Why bother looking for it? We actually get at an answer when the film starts discussing the apparent destruction of what is probably indeed Herod's sarcophagus (btw, the narrator's pronounciation of the plural of that word constantly grated). That's a step up on the Alex documentary. In this film, we get a biography of Herod (though only twice obliquely referring to Herod's role in Mathew, which I thought was a bit odd, seeing as how that's how most of the viewers for this film will be familar with him) , and a long exploration of his building projects, and the ideology behind them. This was great- we often don't get a very profound discussion of what builders hoped to accomplish in their work, in this kind of film. Ideologies of construction were quite complex in antiquity, so I was pleased to see it. The section on Caesarea Maritima was like visiting with an old friend - my very first junior college archaeology paper was about that city, so I was busy throwing factoids at my wife instead of listening to the show at that point. (Memo to writers: at the Battle of Actium, Octavian was still Octavian, not Augustus. It matters, trust me). Ehud Netzer, the archaeological hero of this show, has a theory on where the tomb is, and proceeds to lay it out for us. Helpfully, the show recaps towards the end, in case you missed the steps. Has he got the tomb? Tune in to find out... if you had to choose between two 'lost tombs', this one was the better show. National Geographic is also getting into the game business apparently, and the game tie-in for this show is apparently one of their first offerings. I played it. It was another hidden-object game...  C'mon NG! Let's think big! Let's do a Grand Theft Auto go-anywhere world game, set in one of your famous expeditions from the past... Baghdad, 1920s, let's do some heroic archaeology...

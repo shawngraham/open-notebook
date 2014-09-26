@@ -1,0 +1,17 @@
+title: History Channel and Great Battles of Rome
+link: http://electricarchaeology.ca/2007/09/25/history-channel-and-great-battles-of-rome/
+author: fhg1711
+description: 
+post_id: 70
+created: 2007/09/25 09:25:03
+created_gmt: 2007/09/25 14:25:03
+comment_status: open
+post_name: history-channel-and-great-battles-of-rome
+status: publish
+post_type: post
+
+# History Channel and Great Battles of Rome
+
+From a few months ago on [Ancient Games](http://ancientgames.blogspot.com/), a blog devoted to, well, ancient games (and cinema based on antiquity) comes the following: 
+
+> With a name like The History Channel: Great Battles of Rome, it's not too difficult to figure out what this game is about. Developed by Slitherine Software, Great Battles of Rome is a tactical battle simulator that lets you control Roman legions in battle against their many foes. Like Slitherine's previous games, Great Battles of Rome focuses just on battles. There's no strategic layer that presents you with a map of the Roman world, so you don't have to worry about moving armies around the map or managing cities. All you have to worry about is managing your army, both in and between battles.![](http://image.com.com/gamespot/images/bigboxshots/9/938279_91611_front.jpg) There will be more than 100 battles in the game, divided among 14 Roman campaigns. They're all linear, too, so you must win a battle in order to progress to the next one. Most battles will be won and lost in the planning phase, before the fighting even begins. During the planning phase, you deploy your troops onto the battlefield, taking into account terrain and tactics. You'll then give them initial orders and formations for when the battle starts. For instance, you might want infantry to hold in place, and cavalry to move forward and charge. Your opening moves and stances will be critical, because once the battle begins you won't be able to micromanage it. Instead, you'll have only a limited number of points, which you can use to issue orders. That's to model the difficulty of generals to manage a battle once it has begun. Should you win the battle, you'll move on to the army management screen, which lets you recruit and customize squads. You can control up to 20 different squads, consisting of more than 20 troop types. There are infantry, cavalry, archers, and whatever else you'd expect from this era in history, such as elephants. You earn gold for winning battles, and you can use it to purchase new squads, replace losses in existing squads, pay for specialized training for squads, or buy better weapons and equipment for your troops. The amount of customization and training is extensive, so you can really make your squads feel like your own. Once everything is set up the way you want, you'll launch into the next battle. The battles are historically based, so you may battle Germanic barbarians in the North or campaign in much warmer climes. Each battle presents a different tactical challenge thanks to the terrain. Rough terrain might make things difficult for mounted units and ideal for infantry, while open terrain reverses the situation. Woods or hills might create obstacles that can be used to your advantage. You'll also need to study the composition of the enemy force and its deployments. If you see a weakness in their lines, figure a way to exploit it. You don't need to kill everyone in order to win a battle. That rarely happens in history. Instead, you just need to kill enough of them to make the survivors panic and flee."

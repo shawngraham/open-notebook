@@ -1,0 +1,15 @@
+title: Stranger in These Parts - An Interactive Fiction for Teaching
+link: http://electricarchaeology.ca/2012/08/17/stranger-in-these-parts-an-interactive-fiction-for-teaching/
+author: fhg1711
+description: 
+post_id: 1559
+created: 2012/08/17 12:44:10
+created_gmt: 2012/08/17 17:44:10
+comment_status: open
+post_name: stranger-in-these-parts-an-interactive-fiction-for-teaching
+status: publish
+post_type: post
+
+# Stranger in These Parts - An Interactive Fiction for Teaching
+
+One of the things I want my students to engage with in my 'cities and countryside in antiquity' class is the idea that in antiquity, one navigates space not with a two dimensional top-down mental map, but rather as a series of what-comes-next. That navigating required socializing, asking directions, paying attention to landmarks.  I'm in part inspired by R. Ling's 1990 article, [Stranger in Town](www.jstor.org/stable/643047), and in part by Elijah Meek's and Walter Scheidel's[ ORBIS project](http://orbis.stanford.edu/). Elijah and I have in fact been talking about marrying a text-based interface for Orbis for this very reason. But I'm also interested in gaming, simulation and storytelling for their own merits, so I'm trying my hand at an interactive fiction written using [Inform 7  ](http://inform7.com)along the same lines. Instead of interfacing directly with the model represented in Orbis, I've queried Orbis for travel data, and have begun to write a bit of a narrative around it. (One could've composed this in Latin, in which case you'd get not just the spatial ideas, but also the language learning too!). Anyway, I present to you version 0.1, a beta (perhaps 'alpha' is more appropriate) for '[Stranger in These Parts](http://playfic.com/games/shawn_graham/stranger-in-these-parts---v01)', by Shawn Graham. I'm using [Playfic ](http://playfic.com)to host it. I'd be happy to hear your thoughts. (And a hint to get going: check to see what you've got on you, and 'ask Eros' about things...) Obviously, some things are lacking at the moment. I'll want the player to be able to select different modes of transport sometimes (and thus to skip settings). There's a point system, but it's meant more to signal to the students that there is more to find. Depending on which NPCs a student talks with, different kinds of routes should become available. Time passes within the IF, and so night time matters - no travel then.  As far as I know, there's no such thing as multi-player IF or head-to-head IF, but that'd be fun if it were possible: can you get to Pompeii before your classmates? In terms of the learning exercise, the students will play through this, and then explore the same territory in Orbis. In the light of their readings and experiences, I'll be asking them to reflect on the Roman experience of space. Once we've done that, now being suitably disabused of 21st century views of how to navigate space, we'll start looking at the landscape archaeology of other ancient cultures. That's the plan, at any rate.

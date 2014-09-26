@@ -1,0 +1,17 @@
+title: Piccolo for dynamic Harris Matrices (amongst other things)
+link: http://electricarchaeology.ca/2008/02/12/piccolo-for-dynamic-harris-matrices-amongst-other-things/
+author: fhg1711
+description: 
+post_id: 198
+created: 2008/02/12 13:19:20
+created_gmt: 2008/02/12 18:19:20
+comment_status: open
+post_name: piccolo-for-dynamic-harris-matrices-amongst-other-things
+status: publish
+post_type: post
+
+# Piccolo for dynamic Harris Matrices (amongst other things)
+
+Somewhere circa 1999 I came across something called 'Jazz', a zoomable user interface for browsing the web. As you can imagine, it had some issues since it was an early prototype. Essentially it organised a web page (or other information) literally in layers. Using the mouse, you zoomed down through it (which could induce a kind of vertigo, since it was easy to get lost in the empty spaces between things). ![](http://www.cs.umd.edu/hcil/_img/splash/logo-hcil-splash.jpg)That tool is now called '[Piccolo](http://www.cs.umd.edu/hcil/piccolo/index.shtml)', and it comes from the University of Maryland. It is much more developed, open source, and can be used to devise the zoomable user interface of your dreams (should you dream about such things). I thought then, and I still think now, that this tool could be very useful for spatially organizing hierarchical levels of nested data - everything from Harris matrices to finds catalogues. This example of Piccolo in operation is called '[the fish-eye calendar](http://www.cs.umd.edu/hcil/jazz/play/applet/fisheyecalendar.shtml)'. Explore it. You'll soon see what I mean... (the example of a[ presentation applet](http://www.cs.umd.edu/hcil/jazz/play/applet/presentation.shtml) is particular neat, showing the versatility of the product.) To get started, visit [this page](http://www.cs.umd.edu/hcil/jazz/learn/index.shtml). There are also tutorials and examples of how they made the showcase applications - more than enough material for an enterprising archaeologist to make an archaeological application. Maybe a project for a grad student...  nb. Piccolo wouldn't work in Firefox, but does in Explorer. More from their site: 
+
+> "Piccolo is a toolkit that supports the development of 2D structured graphics programs, in general, and Zoomable User Interfaces (ZUIs), in particular. A ZUI is a new kind of interface that presents a huge canvas of information on a traditional computer display by letting the user smoothly zoom in, to get more detailed information, and zoom out for an overview. We use a "scene-graph" model that is common to 3D environments. Basically, this means that Piccolo maintains a hierarchal structure of objects and cameras, allowing the application developer to orient, group and manipulate objects in meaningful ways. Why use Piccolo? It will allow you to build structured graphical applications without worrying so much about the low level details. The infrastructure provides efficient repainting of the screen, bounds management, event handling and dispatch, picking (determining which visual object the mouse is over), animation, layout, and more. Normally, you would have to write all of this code from scratch. Additionally, if you want to build an application with zooming, that’s built right into the framework too."

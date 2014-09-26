@@ -1,0 +1,35 @@
+title: Archaeology in, and archaeology of, Second Life
+link: http://electricarchaeology.ca/2008/06/30/archaeology-in-and-archaeology-of-second-life/
+author: fhg1711
+description: 
+post_id: 298
+created: 2008/06/30 05:39:43
+created_gmt: 2008/06/30 10:39:43
+comment_status: open
+post_name: archaeology-in-and-archaeology-of-second-life
+status: publish
+post_type: post
+
+# Archaeology in, and archaeology of, Second Life
+
+Right now, it's 6.17 am, EST, which makes it about 11.17 am Dublin time, and 3.17 am Second Life time. No doubt, there's a wild party going on somewhere in Second Life, but here at the RWU virtual excavation prototype, all is quiet. I'm waiting to give my presentation to the folks at WAC6 in Dublin, but last I heard, there were some technical issues on their end - so a good thing I made a video of the presentation! Youtube, in the end, could not handle my video because they have an upper limit of 10 minutes - my talk clocks in at 13. Google video doesn't have a length restriction, so I went with them (but seeing as how they own Youtube anyway, I wonder why the distinction). It took forever for the thing to upload - I had to leave the computer running over night. I uploaded as an AVI file - Camtasia makes excellent SWF files, but for reasons unknown to me, it truncated my video - after nearly two hours of rendering - to 4 minutes and 32 seconds! Anyway, the quality is a little blurry, but I never said I was Fellini... The argument of the talk, in brief: SL for archaeology: a place to 'do' archaeology', a place for archaeological VR, and a place for archaeological teaching and outreach. 
+
+  * SL as a place to 'do' archaeology: Virtual worlds have always existed - from the caves of Cro-Magnon, to the Hanging Gardens of Babylon, to Hadrian's Villa at Tivoli, to Disneyland, SL just the latest in a long line of virtual worlds. Indeed, since SL is a world of imagination and flights of fancy, it has more in common with the virtual worlds of the past created by historians or archaeologists in their reconstructions. How do we understand SL then? Think of games: what do games teach best? Not what they are ostensbily about, but rather, _how_ to play them. The rules of the game might correspond with various historical epistemologies (think _Civilization_ franchise): the rules of the game make a kind of argument for how the world works: a procedural rhetoric (in Ian Bogost's felicitous phrase).
+  * What are the rules in SL, in this world where 'anything' is possible? The rules are best expressed through how SL allows objects and scripts to be built: so to understand the rules and their implications means casting the same kind of archaeological eye over this virtual material culture and landscapes as we would in the 'real' world.
+  * therefore, if millions of people choose to spend their time and money in SL or other similar worlds, archaeology has a role in uncovering and studying the procedural rhetorics of this new frontier.
+That's strand one. Strand two: 
+  * traditional archaeological VR: clean, antiseptic, disembodied: you can only experience it by looking at the pretty pictures. In SL, since you are embodied in an avatar, you can explore the experience of the space; space-syntax in the real world explores how interconnected spaces give rise to certain kinds of experiences, so it should be possible to use SL to explore interconnected, re-created ancient spaces with space-syntax tools.... also, SL tends to clean up after itself (if you drop something, it gets returned to you) so in the presentation we take a  side trip to SL dumpster to explore how one artists' collective uses SL to collect others' trash to study the lives of residents.
+Third strand: SL for teaching 
+  * if the argument about procedural rhetorics is correct, and that the only thing games teach you is how to play them, then I make that a virtue by translating archaeological metaphors into the basic building blocks of SL. Demonstration of the RWU virtual excavation prototype, integration with Nabonidus on-line recording system.
+And so, without further ado, the video which should make much the same argument as above: [googlevideo=http://video.google.com/googleplayer.swf?docid=1930230269105526209]
+
+## Comments
+
+**[Alun](#1079 "2008-06-30 07:41:02"):** That's a good looking presentation, and the use of video means I can go back to listen again to some of the points where I may have been a bit confused. The use of SL for teaching excavation recording is an excellent idea, especially with the state of the excavation being known and replicable before it is dug. The biggest problem I see at the moment is the limitations of technology. I really cannot get to grips with the SL control system. The only thing I could do was walk my avatar off very tall buildings - which suggests I wasn't that engaged with it. Perhaps that's because I tended to have bad connections to the site and the software would frequently crash. I'm not sure how far immersive VR has come since [W Industries](http://www.arcadianvr.com/) had their headset/kiosks. With the success of Nintendo Wii it's possible that immersive VR will improve massively over the next few years, and allow affordable VR. In any event it looks like a useful tool.
+
+**[Shawn](#1080 "2008-06-30 15:03:44"):** I was extemporizing when I recorded the audio, so that might account for some of the confusion...! There'll be a written version, in due course, that will be much tighter, argument-wise. Glad you liked the video, though. I have new respect for people who make machinima an art form. Ed Castranova makes the case for 'good enough' virtuality - just virtual enough that you buy in, suspend disbelief. The motor controls in SL could certainly stand some tuning. I get stuck underground, in walls, etc from time to time: the result of a slow connection, and me moving before the walls turn up. 'Mycosm' is a new world supposedly ready to go in the next few months that claims to be an improvement on all the things that drive people nuts in SL, so we shall see... With regard to the live version of this presentation: Unfortunately, as things turned out, we weren't able to make the Canada-Ireland connection this morning in SL; problem with authenticating the computer in the conference room on the network, is my understanding. On the plus side, I saw the sunrise through the mist over farm fields.
+
+**[Shawn](#1089 "2008-07-04 09:03:38"):** Oh, and I realise there's a short clip in the video not from SL, but from Roma Victor - I intended to discuss different approaches to time within these kinds of worlds, but I got sidetracked. Ah well.
+
+**[mooregroup](#1096 "2008-07-08 10:20:39"):** Really unfortunate that It didn't work in Dublin.. I was sitting in anticipation in the room waiting for the video and disappointed when nothing happened - delighted that you've posted it here. I've wandered around second life and found it all a little confusing - I think my avatar is suspended above the sea somewhere now...
+

@@ -1,0 +1,19 @@
+title: A Text Book in Agent Based Modelling
+link: http://electricarchaeology.ca/2009/12/16/a-text-book-in-agent-based-modelling/
+author: fhg1711
+description: 
+post_id: 780
+created: 2009/12/16 11:08:54
+created_gmt: 2009/12/16 16:08:54
+comment_status: open
+post_name: a-text-book-in-agent-based-modelling
+status: publish
+post_type: post
+
+# A Text Book in Agent Based Modelling
+
+[Steven Railsback and Volker Grimm are preparing a textbook in Agent Based Modeling](http://www.railsback-grimm-abm-book.com/index.html) that looks like it will become a standard text for all who are interested in the potential of the method. Interestingly, they have been providing draft chapters of the book for feedback. 
+
+> The book has five parts. **Part I** provides a quick introduction to modeling and agent-based modeling, and a "crash course" in programming ABMs in NetLogo. The goal of this part is to teach students enough of the basics so they can move on to the second part, which makes extensive use of simple but complete example models. We introduce a standard format for describing (and, therefore, thinking about and designing) ABMs, which is used throughout the book. As soon as students learn the basics of programming in NetLogo, we also introduce methods for testing software: testing our programs is an essential scientific skill that needs to become a habit from the start. **Part II** includes nine chapters that (a) introduce a basic concept of agent-based modeling and ways that the concept is often implemented, and (b) reinforce and expand NetLogo programming skills related to the concept. For example, the chapter on Observation starts with a short discussion of why the way we observe an ABM is important and the different kinds of results we need to observe, then discusses how to use NetLogo's extensive graphical and file output tools to make the observations we need. Part II makes extensive use of example models and exercises to illustrate and develop modeling and programming skills. **Part III** covers "pattern-oriented modeling", a modeling strategy that we believe to be especially important for agent-based modeling. We explore how to use characteristic patterns of the real system we model in designing an ABM and in developing theory for how the system's dynamics emerge from agent characteristics and behaviors. Pattern-oriented modeling helps us deal with some of the most difficult issues in agent-based modeling, such as knowing when a model is "as simple as possible, but no simpler". **Part IV** looks at what we do with a model after it is written and programmed: analyze it to understand the model and to solve the problem we designed it for. We introduce methods for typical kinds of analyses (sensitivity and robustness; calibration); and for drawing inference about the system we modeled. **Part V** is our look forward, with suggestions and guidance for scientists wanting to continue building their experience and capabilities. We discuss alternatives to NetLogo that may become desirable for models that are larger, more complex, or less-suited to NetLogo's basic design.
+
+As I look at the sample chapters (via the download page) I see not just how to create models, but also how to analyze them, with example spreadsheets, Bayesian approaches... looks fantastic. I wish I'd had this when I was starting out. Hang, I'm still hazy on Bayes' theorem and how to make it work for me. Some light holiday reading... :) Combine this book with [Gilbert and Troitzsch's Simulation for the Social Scientist](http://www.amazon.co.uk/Simulation-Social-Scientist-Nigel-Gilbert/dp/0335216005) and you'll have everything you need to get cracking!

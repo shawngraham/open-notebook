@@ -1,0 +1,15 @@
+title: Reading & Experiencing Space
+link: http://electricarchaeology.ca/2007/07/20/reading-experiencing-space/
+author: fhg1711
+description: 
+post_id: 48
+created: 2007/07/20 11:34:13
+created_gmt: 2007/07/20 16:34:13
+comment_status: open
+post_name: reading-experiencing-space
+status: publish
+post_type: post
+
+# Reading & Experiencing Space
+
+When I was an MA student at Reading University (studying the City of Rome), one of the texts that we used was Diane Favro's [The Urban Image of Augustan Rome](http://www.amazon.com/Urban-Image-Augustan-Rome/dp/0521470714/ref=sr_1_1/104-8840332-9255957?ie=UTF8&s=books&qid=1184948913&sr=8-1), Joesphy Ryckwert's [The Idea of a Town](http://www.amazon.com/Idea-Town-Anthropology-Urban-Ancient/dp/0262680564/ref=sr_1_8/104-8840332-9255957?ie=UTF8&s=books&qid=1184948946&sr=1-8), and Kevin Lynch's [The Image of the City](http://www.amazon.com/Image-City-Kevin-Lynch/dp/0262620014/ref=sr_1_3/104-8840332-9255957?ie=UTF8&s=books&qid=1184948999&sr=1-3). One of the things I took away from that experience was about reading and experience space, and the messages encoded in the urban fabric. One of the things that has always bugged me about reconstructions - whether written or drawn or CAD - is that, no matter how good they are, the experience and the reading is always at one or two steps' remove. Today, I was briefly at [Vassar's Sistine Chapel](http://slurl.com/secondlife/Vassar/168/87/24) in Second Life. This it strikes me is an excellent example of how archaeological space and its reconstructions might be profitably done. For starters, the simulation takes control of your avatar so that you **must** read the code of conduct. If you do not agree to behave inside, the simulation dumps you elsewhere (how I wish the _real_ Sistine Chapel had such an device!). Once inside, the space surrounds you. Because you can fly, you too can play the artist and poke your nose against the paint. Moreover, every fresco, every scene seems thick with information. Touching one presents you with a notecard with all of the information you could want about that particular scene. The experience was tranquil; it was like stumbling into one of those churches in the back alleys of Rome that the tourists always miss... which I suppose raises some questions about whether spiritual experiences are possible in Second Life. But I digress. I would love to see a reconstructed and annotated Pantheon; or a walk through the Campus Martius teeming with information attached: hyperlinked experienced virtual space... Imagine publishing your excavation in Second Life, a reconstruction where different layers could be peeled away, or 'wall54' tagged with all of the associated info, perhaps via a link to an online database. Publishing through Experiencing... ![](http://electricarchaeologist.files.wordpress.com/2007/07/sistine_001.jpg)

@@ -1,0 +1,17 @@
+title: eat, dance, play @ Çatalhöyük
+link: http://electricarchaeology.ca/2010/04/26/eat-dance-play-catalhoyuk/
+author: fhg1711
+description: 
+post_id: 934
+created: 2010/04/26 15:59:19
+created_gmt: 2010/04/26 20:59:19
+comment_status: open
+post_name: eat-dance-play-catalhoyuk
+status: publish
+post_type: post
+
+# eat, dance, play @ Çatalhöyük
+
+From [Middle Savager](http://middlesavagery.wordpress.com/)y - looks like an interesting day coming up! 
+
+> Join us for eat, drink, play @ Çatalhöyük, a project led by Professor Ruth Tringham of UC Berkeley that explores the intricate life practices of a Neolithic village in Turkey. Okapi Island, which has been in development since 2006, offers individuals the unique opportunity to explore reconstructions of Çatalhöyük, visit our virtual museum, and take guided video walks through the Island. In this demonstration you will join in authentic cooking lessons, dancing by the firelight, and canoeing down the river of Çatalhöyük. We will present student work and changes we made to the island over the past semester. Don’t miss the chance to explore the unique multimedia exhibits of Çatalhöyük research data and come connect with us on Okapi Island.![Your browser may not support display of this image.](https://mail.google.com/mail/?name=d33be9805ff33117.jpg&attid=0.1&disp=vahi&view=att&th=1282864c51ccb409) **eat, dance, play @ Çatalhöyük Activities** 2:00- 2:15 PM (PST) Introduction to Okapi Island by Ruth Tringham (Professor of Anthropology, UC Berkeley, and Principal Investigator of Berkeley Archaeologists at Çatalhöyük). Join Ruth as she explains the background of the project, current projects, and future goals. 2:15– 2:30 PM (PST) Tell Tour/introduction to the changes on the Island by Colleen Morgan, including a brief presentation about her 2009 _Archaeologies_ publication. 2:30- 3:00 PM (PST) Student demonstrations of their work this semester, including cooking lessons and an lecture about archiving cultural heritage in Second Life. 3:00- 4:00 PM (PST) Extemporaneous Machinima Creation, directed by Ruth Tringham. Dress up in Neolithic clothes and flintknap, dance, and join a feast! 4:00- 4:30 PM (PST) Film Festival – Showing of movies and machinima associated with the island. 4:30- 5:00 PM (PST) Chat and dance next to the fire with the creators of Okapi Island. **What is Second Life?** Second Life is a 3-D virtual world created entirely by its residents. Okapi Island is owned and build by the OKAPI team (that’s us below!) and the Berkeley Archaeologists at Catalhoyuk. **Getting Started** To visit Okapi Island, you will need to create a user account and download the client software–both free. To create an account, visit [www.secondlife.com](http://www.secondlife.com/), click on Join (in the upper right corner) and follow the instructions. Note: You do not need a premium account to use Second Life or visit Okapi Island. Next, download and install the Second Life client for your computer: <http://secondlife.com/community/downloads.php> Launch the Second Life client and enter your password. You will likely begin in Orientation Island. To visit Okapi Island, click Map, enter “Okapi” in search field and click Search. Alternatively, you can click on the following slurl (second life url) in your browser, and you will be transported there: SLURL: <http://slurl.com/secondlife/Okapi/128/128/0> See you there!

@@ -1,0 +1,15 @@
+title: Topic Modeling the Portable Antiquities Scheme
+link: http://electricarchaeology.ca/2013/05/09/topic-modeling-the-portable-antiquities-scheme/
+author: fhg1711
+description: 
+post_id: 1762
+created: 2013/05/09 10:49:47
+created_gmt: 2013/05/09 15:49:47
+comment_status: open
+post_name: topic-modeling-the-portable-antiquities-scheme
+status: publish
+post_type: post
+
+# Topic Modeling the Portable Antiquities Scheme
+
+[caption id="" align="alignleft" width="192"]![](http://farm8.staticflickr.com/7251/7549072406_69f42574e4_z.jpg) The Frome Hoard of Roman Coins[/caption] I got my hands on the latest build of the [Portable Antiquities Scheme](http://finds.org.uk/) database. I want to topic model the items in this database, to look for patterns in the small material culture of Britain, across time and space. The data comes in a single CSV, with approximately 500 000 individual rows. The data's a bit messy, as a result of extra commas slipping in here and there. The names of the Finds Liaison Officers slip into a column meant to record epigraphic info from coins, for instance, from time to time. Not a big deal, over 500 000 records. The first issue I had was that after opening the CSV file in Excel, Excel would regard all of those epigraphic conventions (the use of =, +, or [ ] and so on) as formulae. This would generate 'circular reference' errors. I could sort that out by inserting a ' at the beginning of that column. But as you can imagine, sorting through, filtering, or any kind of manipulation of a single table that large would slow things considerably - and frequently crashed this poor ol' desktop. I tried using Open Refine to clean up the data. I suspect with a bit of time and effort I'd be able to use that product well, but yesterday all I achieved, once I imported my csv file and clicked 'make project', was an 'undefined error' (after several minutes of chugging). This morning, I turned to Access and was able to import the csv, and begin querying it, cleaning things up a bit, and so on. So I decided to focus on the Roman records, for the time being. There are some 66 000 unique records, coming from over 80 unique districts of the UK. This leaves me with a table with the chronological range for the object, a description of the object, and some measurements. I have a script that can take each individual row, and turn it into a txt file which I can then import into MALLET. Each individual row can also include the district name. So I'm wondering now: should I just cut and paste all of the rows for a single district into a single txt file (and thus the routine will not have the place-name in the analyzed text)? Or should I preserve the granularity, and just topic model over every record, preserving the place name?  Ie, a collection of 80 txt files where there are no place names, or a collection of 66 000 txt files where every file has the place name - will they swamp the signals? It's too early in the morning for this kind of thinking.

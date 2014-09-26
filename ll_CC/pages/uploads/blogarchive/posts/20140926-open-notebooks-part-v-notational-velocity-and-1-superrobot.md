@@ -1,0 +1,19 @@
+title: Open Notebooks Part V: Notational Velocity and 1 superRobot
+link: http://electricarchaeology.ca/2014/09/26/open-notebooks-part-v-notational-velocity-and-1-superrobot/
+author: fhg1711
+description: 
+post_id: 2233
+created: 2014/09/26 12:37:37
+created_gmt: 2014/09/26 17:37:37
+comment_status: open
+post_name: open-notebooks-part-v-notational-velocity-and-1-superrobot
+status: publish
+post_type: post
+
+# Open Notebooks Part V: Notational Velocity and 1 superRobot
+
+The thought occurred that not everyone wants to take their notes in Scrivener. You might prefer the simple elegance and speed of [Notational Velocity](http://notational.net/), for instance. Yet, when it comes time to integrate those notes, to interrogate those notes, to rearrange them to see what kind of coherent structure you might have, Scrivener is hard to beat. ![Screen Shot 2014-09-26 at 1.12.02 PM](http://electricarchaeologist.files.wordpress.com/2014/09/screen-shot-2014-09-26-at-1-12-02-pm.png?w=226)With Notational Velocity installed, go to 'preferences'. Under 'Notes' change 'Read notes from folder' to point to the Scrivener synchronization folder. Then, change 'store and read notes on disk as:' to 'rich text format files'. This will save every note as a separate rtf file in the folder. Now you can go ahead and use Notational Velocity as per normal. Notational Velocity uses the search bar as a way of creating notes, so start typing in there; if it finds existing notes with those keywords, it'll bring them up. Otherwise, you can just skip down to the text editing zone and add your note. When next you sync scrivener, all of these notes will be brought into your project. Ta da! A later evolution of Notational Velocity, [nvALT](http://brettterpstra.com/projects/nvalt/), has more features, and can be used locally as a personal wiki ([as in this post](http://www.christopher-mayo.com/?p=51)). I haven't played with it yet, but given its genesis, I imagine it would be easy to make it integrate with Scrivener this way. (A possible windows option is [Notation](http://getnotation.com/), but I haven't tried it out yet). 
+
+~o0o~
+
+I've combined all of my automator applications into one single automator app, a superrobot if you will, that grabs, converts, creates a table of contents in markdown, and pushes the results into github, whereupon it lives within my markdown wiki page. I found I had to insert 10 second pauses between stages, or else the steps would get out of order making a godawful mess. Presumably, with more notecards, I'd have to build in more time? We shall see. No doubt there is a much more elegant way of doing this, but the screenshot gives you what you need to know: ![Screen Shot 2014-09-26 at 1.36.03 PM](http://electricarchaeologist.files.wordpress.com/2014/09/screen-shot-2014-09-26-at-1-36-03-pm.png) **Update with Caveat** Ah. Turns out that the Scrivener sync feature renames the notes slightly, which seems to break things in Notational Velocity. So perhaps the workflow should go like this: 1\. Use notational velocity to keep notes, and for its handy search feature. 2\. Have preferences set to individual files as rtf, as above, in a dedicated folder just for notational-velocity. 3\. Create an automator app that moves everything into Scrivener sync, for your writing and visualizing of the connections between the notes. 4\. Sync scrivener, continue as before. OR, if you wish to dispense with scrivener altogether, just use the rtf to md script and proceed. Perhaps that's just making life way too complicated. Oh, and as Columbo used to say... "...one more thing": Naming. Some kind of naming convention for notes needs to be developed. [Here is some really good advice](http://bettermess.com/naming-files-and-avoiding-folders/) that I aspire to implement.

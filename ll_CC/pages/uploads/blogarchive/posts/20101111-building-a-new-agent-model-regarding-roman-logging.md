@@ -1,0 +1,15 @@
+title: Building a new agent model, regarding Roman Logging
+link: http://electricarchaeology.ca/2010/11/11/building-a-new-agent-model-regarding-roman-logging/
+author: fhg1711
+description: 
+post_id: 1093
+created: 2010/11/11 14:47:36
+created_gmt: 2010/11/11 19:47:36
+comment_status: open
+post_name: building-a-new-agent-model-regarding-roman-logging
+status: publish
+post_type: post
+
+# Building a new agent model, regarding Roman Logging
+
+Here's what I want to do; I use [Netlogo](http://ccl.northwestern.edu/netlogo/). I'd like to build a model that focusses attention on the ways resource extraction in peripheral areas could drive development (however we define that) in those areas. I'm looking at timber exploitation in the Roman world, for which there is very little archaeological or literary evidence. So the problem is one of building a model that bridges that whole lack-of-evidence gap. I've got my network models of brick exploitation, which could provide a starting point. Instead of one all-encompassing model for all of this, I'm thinking of using small models that can be easily explained/queried... I'm thinking using a basic Wealth Distribution/Sugarscape model overlaid on two different substrates: my brick social networks, and then on GIS data related to the general sources of timber exploited in the Roman world. The timber one would first use the Travellersim model James Steiner and I developed to generate a social network onto which we could then run the WD/Sscape model. Ideally what would then result could be mapped back against what archaeological/historical evidence there is, thus providing new insights etc etc. That's one approach. Alternatively, ﻿﻿I can use the GIS Gradient Example plus the Cooperation model from the models library as a starting point. I've got an ascii digital elevation model showing a roughly 200 x 200 km square of central Italy.  While I don't know the locations of actual production sites for logging, etc, I think I could work the following: \- patches at a certain elevation range have a probability of coppiced woodland -patches at another elevation range prob of wild woodland \- these grow at different rates -Romans harvest these using different strategies (cooperation, greedy strategies from the models library cooperation model; other economic strategies?) -uphill travel increases metabolism, downhill travel doesn't increase metabolism -use the output graphs from the wealth distribution model So I'd then want to explore the model to see balance of settings are stable given different environments (mostly coppiced; mostly wild woodland; greedy/cooperative) A second phase of the model might be to add some sort of transportation from the harvest site to the nearest river, a pickup/putdown routine that effects metabolism, so that we then get an idea of how geography intersects with the different environments/strategies.

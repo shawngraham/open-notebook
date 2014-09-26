@@ -1,0 +1,27 @@
+title: Beyond the Spaghetti Monster
+link: http://electricarchaeology.ca/2014/03/13/beyond-the-spaghetti-monster/
+author: fhg1711
+description: 
+post_id: 1973
+created: 2014/03/13 15:31:29
+created_gmt: 2014/03/13 20:31:29
+comment_status: open
+post_name: beyond-the-spaghetti-monster
+status: publish
+post_type: post
+
+# Beyond the Spaghetti Monster
+
+![](http://whathipster.files.wordpress.com/2011/06/flying_spaghetti_monster_2-thumb-514x5141.jpg)No, I don't mean _that_ spaghetti monster. I mean the one that people invoke when they wish to disparage network analysis. That particular spaghetti monster is some variant of a force-directed layout algorithm. Now, these have their place, but they sometimes obscure more than they illuminate. There are alternatives, and Elijah Meeks has been sharing some d3.js code for making interactive 'arc diagrams' and 'adjacency matrices' that highlight important patterns in network data without the monstrousness. Elijah writes: 
+
+> An arc diagram is another way of visualizing networks that doesn't use force-directed principles. Instead, it draws the edge from one node to another as arcs above or below the nodes. Weight is indicated by edge thickness and directionality is indicated by the arc being above or below the nodes as well as with the edge getting wider at the source.
+
+Over at [http://bl.ocks.org/emeeks/9458332  ](http://bl.ocks.org/emeeks/9458332)Elijah shows us the d3 code for making such a creature. In essence, the code says to your browser, 'there's an edgelist, and a nodelist, and they go together like this.' Since it's using [d3.js](http://d3js.org/) (data-driven documents), it loads that library up to make this process easier.  If you wanted to draw one of these things for yourself, you need to copy Elijah's index.html code from his [bl.ocks.org](http://bl.ocks.org) page, and then create two files, edgelist.csv and nodelist.csv.  If you have a network in Gephi, you can export both of these from the data laboratory tab by clicking 'export spreadsheet'. Similarly, Elijah provides an interactive adjacency matrix at[ http://bl.ocks.org/emeeks/9441864](http://bl.ocks.org/emeeks/9441864)
+
+> An adjacency matrix is a useful way of visualizing networks using an n-by-n grid that shows connection between nodes as a filled grid square. This adjacency matrix is directed, with the source on the y-axis and target on the x-axis. It loads the data from a node list and edge list and represents edge weight using opacity. It also highlights rows and columns on mouseover.
+
+If you copy that bit of html into a new file, it points to the same nodelist.csv and edgelist.csv. Voila! Two very crisp and clear visualizations of the structure of your network, with very little spaghetti mess. Here is Peter Holdsworth's [network of women from 1898 Ontario](http://figshare.com/articles/Holdsworth_1898_Network_of_Women/727768) as both an arc diagram and an adjaceny matrix (and I thank Peter for making is data public for these kinds of explorations - so, I opened his .gexf network file in Gephi. On the data laboratory tab I hit 'export spreadsheet' for the nodes table, and then the edges table. I opened the csv files in excel, stripped out extraneous fields, and saved as csv): [caption id="attachment_1974" align="aligncenter" width="300"]![1898 - Women networked by virtue of shared membership in various organizations](http://electricarchaeologist.files.wordpress.com/2014/03/meeksarc-w-holdsworth.png?w=300) 1898 - Women networked by virtue of shared membership in various organizations[/caption] [caption id="attachment_1975" align="aligncenter" width="300"]![Same again](http://electricarchaeologist.files.wordpress.com/2014/03/meeksadjacent-w-holdsworth.png?w=300) Same again[/caption] Contrast these with the spaghetti version that was generated with gephi (Figshare [provides a preview here](http://figshare.com/articles/Holdsworth_1898_Network_of_Women/727768)). The patterning is much clearer and intuitive, I think. It's beyond my programming prowess, but it should not be overly difficult for someone to package this code as a layout plugin for Gephi I would think. Now, here's the thing - you'll need to put the html and the csv into the same folder on a server somewhere for this to work. I use [WAMP ](http://www.wampserver.com/en/)for this kind of thing before moving everything onto the live interwebs. Installing WAMP is quite straightforward; it's a one-click installer. Once you've got it installed, and running, you simply create a subfolder inside the c:\wamp\www\ folder, ie \myproject\\. Then in your browser, got to localhost\myproject. Save your html and csv files in that folder. In your browser, click on your html file, and you're good to go. Elijah does point out: 
+
+> [@mwidner](https://twitter.com/mwidner) [@electricarchaeo](https://twitter.com/electricarchaeo) ... and arc diagrams/adjacency matrices break down with bigger networks, also harder to see global structure. — Elijah Meeks (@Elijah_Meeks) [March 13, 2014](https://twitter.com/Elijah_Meeks/statuses/444203691231289344)
+
+This may be true, but if one plays with some of the html, making the canvas bigger, some of this can be mitigated... As with most things, no one approach is going to do everything you need it to, but these two visualizations should be in your toolkit.

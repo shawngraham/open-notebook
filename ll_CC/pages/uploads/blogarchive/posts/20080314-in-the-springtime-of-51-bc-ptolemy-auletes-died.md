@@ -1,0 +1,15 @@
+title: "In the springtime of 51 BC, Ptolemy Auletes died..."
+link: http://electricarchaeology.ca/2008/03/14/in-the-springtime-of-51-bc-ptolemy-auletes-died/
+author: fhg1711
+description: 
+post_id: 217
+created: 2008/03/14 10:52:03
+created_gmt: 2008/03/14 15:52:03
+comment_status: open
+post_name: in-the-springtime-of-51-bc-ptolemy-auletes-died
+status: publish
+post_type: post
+
+# "In the springtime of 51 BC, Ptolemy Auletes died..."
+
+In the course of marking an assignment, I noticed a curious reference: "Interoz 2008". What was Interoz, I wondered? In the bibliography, this was listed: http://interoz.com/Egypt/cleopatr.htm. It turns out that Interoz is a webdesign company, and these pages on Egypt are likely connected with some work they did on a tourism site. A website design company is not the kind of source that students in a university-level Roman history class should be using. Time and again, I ask my students to ask themselves: "Who wrote this article? How can you know whether or not to trust it?" Needless to say, the author of the article is not listed on the site (though the person who put the page together is). The essay on Interoz goes on to describe Cleopatra's life and times: standard info available in any textbook. I've encouraged my students not to be referencing the textbook, but to get out there and read widely; if they use the internet, I almost beg them to use JSTOR or the other digital resources of our library... to little avail. Anyway, the page in question contains an essay that begins with "In the springtime of 51 BC, Ptolemy Auletes died and left his kingdom in his will to his eighteen year old daughter, Cleopatra, and her younger brother Ptolemy XIII who was twelve at the time." In an effort to determine the ultimate source of this essay, I googled that phrase. Results: 1310 pages. Most of the sites lead in circles, and I'm somewhat stumped as to the ultimate origin of the article. But you can buy it for $12 from this site: http://www.freeessays.tv/a5879.htm (In which case you'd be quite an idiot if you did). So though my student didn't take my advice or learn the lessons of internet research, at least she didn't plagiarize. Small mercies. How many universities and colleges, I wonder, make 'research skills' a required course during the first term of a student's career? I get discouraged sometimes in my own courses: not only do I have to teach the content, but I also find myself devoting enormous amounts of time to teaching remedial basic grammar, spelling, internet skills, library skills... the net effect is to take away from the content, from the subject, and I fear the marks that get awarded might ultimately reflect whether or not a student can string together reasonably grammatically correct and properly spelled thoughts (in comparison to his/her peers) rather than any deep knowledge of the subject... What a depressing thought.

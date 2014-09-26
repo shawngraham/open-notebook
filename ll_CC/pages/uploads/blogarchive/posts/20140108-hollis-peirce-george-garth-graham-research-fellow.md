@@ -1,0 +1,23 @@
+title: Hollis Peirce, George Garth Graham Research Fellow
+link: http://electricarchaeology.ca/2014/01/08/hollis-peirce-george-garth-graham-research-fellow/
+author: fhg1711
+description: 
+post_id: 1937
+created: 2014/01/08 20:58:20
+created_gmt: 2014/01/09 01:58:20
+comment_status: open
+post_name: hollis-peirce-george-garth-graham-research-fellow
+status: publish
+post_type: post
+
+# Hollis Peirce, George Garth Graham Research Fellow
+
+![Hollis Peirce on Twitter: https://twitter.com/HollPeirce](http://grahamresearchfellow.org/wp-content/uploads/2013/12/hollis-twitter-avatar.jpeg) Mr. Hollis Peirce <https://twitter.com/HollPeirce> I am pleased to announce that the first George Garth Graham Undergraduate Digital History Research Fellow will be Mr. [Hollis Peirce](https://twitter.com/HollPeirce). Hollis is a remarkable fellow. He attended the [Digital Humanities Summer Institute ](http://grahamresearchfellow.org/fellows/introducing-hollis-peirce-first-g-g-digital-history-research-fellow/dhsi.org/)at the University of Victoria in the summer of 2012. At DHSI he successfully completed a course called “Digitization Fundamentals and Their Application”. In the fall semester of 2012 he was the impetus behind, and helped to organize,  [THATCamp Accessibility](http://accessibility2012.thatcamp.org/) on the subject of the impact of digital history on accessibility in every sense of the word. [Hollis writes](http://hollispeirce.grahamresearchfellow.org/about/), 
+
+> Life for me has been riddled with challenges.  The majority of them coming on account of the fact that I, Hollis Peirce, am living life as a disabled individual with Congenital Muscular Dystrophy as many things are not accessible to me.  However, I have never let this fact hold me back from accomplishing my goals.  Because of this, when I first started studying history I knew I was not choosing an easy subject for a disabled individual such as myself.  All those old, heavy, books on high library shelves that history is known for made it one of the most inaccessible subjects possible to study.  All that changed however, when I discovered digital history. It was thanks to a new mandatory class for history majors at Carleton University called The Historian’s Craft taught by a professor named Dr Shawn Graham.  This course was aimed at teaching students all about how to become a historian, and how a historian is evolving through technology.  At that moment the idea for ‘Accessibility & Digital History’ came to mind.  From that point on many steps have been taken to advance my studies in this field, which has led to being selected as the first George Garth Graham Undergraduate Digital History Reseach Fellow.
+
+Hollis and I have had our first meeting, about what his project might entail. When I initially cooked this idea up, I thought it would allow students the opportunity to work on my projects, or those of my colleagues around the university. As we chatted about Hollis' ideas, (and where I batted around some of my own stuff),  I realized that I had the directionality of this relationship completely backwards. It's not that Hollis gets to work on my projects. It's that I get to work on _his_. Here's what we came up with. At THATCamp Accessibility, we recorded every session. We bounced around the idea of transcribing those sessions, but realized that that was not really feasible for us. We started talking about zeroing in on certain segments, to tell a history of the future of an accessible digital humanities... and ideas started to fizz. I showed Hollis some of [Jentery Sayer's stuff, especially his work](http://www.jenterysayers.com/2012/scalar/) with [Scalar . ](http://scalar.usc.edu/) Jentery writes, 
+
+> the platform particularly facilitates work with visual materials and dynamic media (such as video and audio)....it enables writers to assemble content from multiple sources and juxtapose them with their own compositions.
+
+Can we use Scalar to tell the story of THATCamp Accessibility that captures the spontaneity, creativity, and excitement of that day in a way that highlights the issues of accessibility that Hollis  wants to explore? And if we can, how can we make it accessible for others (screenreaders, text-to-speech, etc?) And if we focus on telling history with an eye to accessibility (oh, how our metaphors privilege certain senses, ways of knowing!) maybe there will be lessons for telling history, full stop? Stay tuned! Hollis is setting up his blog this week, but he'll be posting over at <http://hollispeirce.grahamresearchfellow.org/>

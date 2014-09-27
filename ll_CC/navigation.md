@@ -66,3 +66,4 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+[gimmick:theme](readable)

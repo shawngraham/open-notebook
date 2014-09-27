@@ -66,4 +66,4 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
-[gimmick:theme](readable)
+[gimmick:theme](slate)

@@ -3,8 +3,8 @@
 
 ## Current Projects
 
-+ Aural & Haptic AR for History
-+ ABM Small & Perfectly Formed
++ [Aural & Haptic AR for History](pages/aural.md)
++ [ABM Small & Perfectly Formed](pages/abm.md)
 
 
 ## Upcoming Projects

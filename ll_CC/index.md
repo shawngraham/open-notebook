@@ -5,7 +5,9 @@
 
 + [Aural & Haptic AR for History](pages/aural.md)
 + [ABM Small & Perfectly Formed](pages/abm.md)
-
++ A Digital Archaeology of Digital Archaeology
++ Digital Gaming and Public Archaeology
++ ABM as Deformation of Greek Archaeology
 
 ## Upcoming Projects
 

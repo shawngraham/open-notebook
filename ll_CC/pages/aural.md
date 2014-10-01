@@ -13,9 +13,9 @@ Base Header Level: 1
 + Joint chapter with Stu?
 + Codebase
   
-## Related things to sort out
-+ Repo
-+ Platform
-+ ?
-
 ## [Current Notes](uploads/documents/contents.md)
+
+## Code
+[Historical Friction source](https://github.com/shawngraham/historicalfriction)
+[Experience Historical Friction - works best Chrome on Desktop](http://graeworks.net/historicalfriction)
+[Voices](http://www.heritagejam.org/jam-day-entries/2014/7/12/voices-recognition-stuart-eve-kerrie-hoffman-colleen-morgan-alexis-pantos-and-sam-kinchin-smith)

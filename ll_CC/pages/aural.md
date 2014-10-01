@@ -13,7 +13,8 @@ Base Header Level: 1
 + Joint chapter with Stu?
 + Codebase
   
-## [Current Notes](uploads/documents/contents.md)
+## Current Notes
++ [notecards](uploads/documents/contents.md)
 + These are my readings notes, marginalia, thoughts, pushed to github using my [workflow](http://electricarchaeology.ca/?s=open+notebook)
 
 ## Code

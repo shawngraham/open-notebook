@@ -14,6 +14,7 @@ Base Header Level: 1
 + Codebase
   
 ## [Current Notes](uploads/documents/contents.md)
++ These are my readings notes, marginalia, thoughts, pushed to github using my [workflow](http://electricarchaeology.ca/?s=open+notebook)
 
 ## Code
 [Historical Friction source](https://github.com/shawngraham/historicalfriction)
